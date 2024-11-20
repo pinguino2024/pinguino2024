@@ -1,4 +1,5 @@
-## Hi there 👋
+## Curs de programació 24/25 👋
+### Professor: Guillem
 
 <!--
 **pinguino2024/pinguino2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
